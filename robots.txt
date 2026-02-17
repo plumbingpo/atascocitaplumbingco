@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atascocitaplumbingco.com/sitemap.xml
